@@ -1,1 +1,1 @@
-DSA
+only DSA
