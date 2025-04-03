@@ -1,3 +1,5 @@
+// Basic and simple way to insert, delete and display in STACK
+
 #include <stdio.h>
 
 int size;
